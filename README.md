@@ -1,4 +1,4 @@
 # weather-app
 
 ## Page Link
-(https://guleroglu.github.io/weather-app/)
+-- https://guleroglu.github.io/weather-app/
